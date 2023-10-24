@@ -1,0 +1,44 @@
+body {
+    background-color: #edf1d6;
+    font-family: 'Young Serif', serif;
+}
+.topnav {
+    background-color: #9dc08b;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #edf1d6;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background-color: #609966;
+    color: #edf1d6;
+  }
+  .topnav a.aktif {
+    background-color: #609966 ;
+    color: #edf1d6;
+  }
+.judul1 {
+    color:  #40513b;
+    font-size: 50px;
+}
+.wrapper {
+    display: flex
+}
+.card {
+    border: 50px solid #edf1d6 ;
+}
+.div1{
+    margin-left: 50px;
+}
+.w-100 {
+    width: 40%;
+  height: 450px;
+    
+   
+}
